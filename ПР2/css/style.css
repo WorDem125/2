@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+}
+
+table, td, th {
+    padding: 5px;
+    border-collapse: collapse;
+    border: 3px solid #245488;
+  }
+ 
+  form {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    border: 2px solid #eee;
+  }
+
+  input {
+    
+  }
+  
+  
